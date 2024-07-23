@@ -6,4 +6,6 @@ Additionally, if outliers are found, a new CSV file will be created containing t
 
 **How to run application**
 All you need to do is have Visual Studio Code (or any other IDE of your choice) and Python installed.
-In the source code, you will need to replace the file path provided by me at file_path with the path to your CSV file.
+In the source code, you will need to replace the file path provided by me at
+"file_path"
+with the path to your CSV file that can be obtained by right-clicking and selecting "Copy as path".
